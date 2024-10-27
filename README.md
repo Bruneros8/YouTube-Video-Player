@@ -14,7 +14,7 @@ To view the project:
 1. Download or clone the repository.
 2. Open the `index.html` file in a web browser to see the video player in action.
 
-## Changing the Embedded Video
+### Changing the Embedded Video
 To embed a different YouTube video, replace the video ID in the `src` URL within `index.html`:
 ```html
 src="https://www.youtube.com/embed/YOUR_VIDEO_ID?controls=0&loop=1&playlist=YOUR_VIDEO_ID&mute=1&autoplay=1"
